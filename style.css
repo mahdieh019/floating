@@ -104,6 +104,6 @@ span{
       height: 20px;
       padding: 15px;
    }
-   .menu ul li a.first{
+   .menu ul li a.active{
        background-color: green;
    }
