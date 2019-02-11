@@ -63,9 +63,9 @@ span{
        background-color: blueviolet;
        padding: 14;
    }
-   .nav ul li a:active{
+   /* .nav ul li a:active{
        background-color: brown;
-   }
+   } */
    .menu ul{
        list-style-type: none;
        background-color: lightgray;
