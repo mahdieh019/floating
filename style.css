@@ -53,6 +53,7 @@ span{
     height: 25px;
    }
    .nav ul li a{
+
        text-decoration: none;
        color: white; 
        text-align: center;
@@ -61,4 +62,5 @@ span{
    }
    .nav ul li a:hover{
        background-color: blueviolet;
+       padding: 14;
    }
