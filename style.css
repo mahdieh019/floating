@@ -71,12 +71,14 @@ span{
    } */
     .menu{
         margin-top: 30px;
+        position: fixed;
+        top: 20%;
    } 
    .menu ul{
        list-style-type: none;
        background-color: darkblue;
        width: 200px;
-       height: 150px;
+       height: 200px;
        overflow: hidden;
        margin: 0;
        padding: 0;
