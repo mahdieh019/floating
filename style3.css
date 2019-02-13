@@ -1,0 +1,37 @@
+/* access to the a-element with the class heigleight 
+a.highlight:hover{
+    color:red;
+}*/
+/* unvisited link */
+a:link{
+    color: #FF0000;
+}
+/* visited link */
+a:visited{
+    color: green;
+}
+/* mouse over link */
+a:hover{
+    color:yellow;
+}
+/* selected link */
+a:active{
+    color:pink;
+}
+div{
+    background-color: green;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+/* div:hover{
+    background-color: blueviolet;
+
+} */
+
+p{
+    display:none; 
+}
+div:hover p{
+     display:block;
+}
